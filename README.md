@@ -1,4 +1,4 @@
-# DiningWebsiteDemo
+# Dining Website Demo
 A dining website built for fun.
 
 ![Image of Website Home](DiningWebsiteHome.jpg)
